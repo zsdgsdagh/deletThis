@@ -5,4 +5,6 @@
     - Пушить без моего разрешения - бан
     - Заходить в вим расстрел потом бан
 
+# merge объединяет несколько последовательностей коммитов в общую историю.
+
 ![Image of kokshka](https://github.com/zsdgsdagh/deletThis/blob/newBranchNewPractice/cat.jpg)
